@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Hello from './Hello.jsx';
+import DictatorsList from './DictatorsList.jsx';
 
 class App extends React.Component {
     render() {
-        return <Hello/>
+        return <DictatorsList/>
     }
 }
 
